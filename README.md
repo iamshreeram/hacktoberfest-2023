@@ -3,11 +3,12 @@ Problems to solve in society based on location - Hacktoberfest 2019
 
 
 ## How to contribute?
-* You can add a new problem into JSON 
-* You can specify a location for a existing problem
+* You can add a new problem into below `list of problems` (OR) 
+* You can specify a location if the problem is already mentioned in `list of problems` then,
 * Add your name into list of contributor
 
 Your name would be added to contribution board after contributing to the issues. 
+
 
 ## Recognition board 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
