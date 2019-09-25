@@ -3,12 +3,31 @@ Problems to solve in society based on location - Hacktoberfest 2019
 
 
 ## How to contribute?
-* You can add a new problem into below `list of problems` (OR) 
-* You can specify a location if the problem is already mentioned in `list of problems` then,
-* Add your name into list of contributor
+* You can create a new json with a problem statement and add the json name into below table (OR) 
+* You can specify your location if the problem is already mentioned. Then,
+* Add your name into list of contributor. 
 
-Your name would be added to contribution board after contributing to the issues. 
+Your name would have to be added to contribution board after contributing to the issues. 
 
+### How to get yourself added to below recognition board?
+1. Create a `<td>` with your details from below template
+  ```
+      <td align="center">
+        <a href="https://github.com/template-githubUsername">
+          <img src="https://avatars2.githubusercontent.com/u/7752805?s=400&v=4" width="100px;" alt="tempalte-yourname"/>
+          <br />
+        <sub><b>  template-yourname
+        </b></sub>
+        </a><br />
+        <!-- Smiley Section-->
+      </td>
+  ```
+2. For advanced users, you can get different smileys. You can replace `<!-- Smiley Section-->` with any of below, 
+  ```
+      <a href="#question-template-your-githubUsername" title="Answering Questions">💬</a> 
+      <a href="https://github.com/iamshreeram/Hacktoberfest2019/commits?author=template-your-githubUsername" title="Documentation">📖</a> 
+      <a href="#talk-template-your-githubUsername" title="Talks">📢</a>
+  ```
 
 ## Recognition board 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
