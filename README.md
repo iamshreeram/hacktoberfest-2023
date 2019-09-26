@@ -10,7 +10,7 @@ Problems to solve in society based on location - Hacktoberfest 2019
 Your name would have to be added to contribution board after contributing to the issues. 
 
 ### How to get yourself added to below recognition board?
-1. Create a `<td>` with your details from below template
+1. Compose a `<td>` from below template by replacing all template-`yourname` and template-`githubUsername` with your details
   ```
       <td align="center">
         <a href="https://github.com/template-githubUsername">
@@ -22,7 +22,8 @@ Your name would have to be added to contribution board after contributing to the
         <!-- Smiley Section-->
       </td>
   ```
-2. For advanced users, you can get different smileys. You can replace `<!-- Smiley Section-->` with any of below, 
+2. Add the details to below table at `Recognition board`
+3. For advanced users, you can get different smileys. You can replace `<!-- Smiley Section-->` with any of below, 
   ```
       <a href="#question-template-your-githubUsername" title="Answering Questions">💬</a> 
       <a href="https://github.com/iamshreeram/Hacktoberfest2019/commits?author=template-your-githubUsername" title="Documentation">📖</a> 
