@@ -1,6 +1,12 @@
-# Problems in our society based on location
-Problems to solve in society based on location - Hacktoberfest 2019
+<p align="center">
+    <a href="#">
+        <img src="./static/hbg.png" />
+    </a>
+    <br/> <br/>
+</p>
 
+
+Problems to solve in society based on location - #Hacktoberfest 2019
 
 ## How to contribute?
 * You can create a new json with a problem statement and add the json name into below table (OR) 
@@ -19,16 +25,19 @@ Your name would have to be added to contribution board after contributing to the
         <sub><b>  template-yourname
         </b></sub>
         </a><br />
-        <!-- Smiley Section-->
+        <!-- Emoji Section-->
       </td>
   ```
 2. Add the details to below table at `Recognition board`
-3. For advanced users, you can get different smileys. You can replace `<!-- Smiley Section-->` with any of below, 
+3. For advanced users, you can get different emojis from [here](https://allcontributors.org/docs/en/emoji-key#table). You can replace `<!-- Emoji Section-->` with any of below, 
   ```
       <a href="#question-template-your-githubUsername" title="Answering Questions">💬</a> 
       <a href="https://github.com/iamshreeram/Hacktoberfest2019/commits?author=template-your-githubUsername" title="Documentation">📖</a> 
       <a href="#talk-template-your-githubUsername" title="Talks">📢</a>
   ```
+4. After composing `emoji` section, you can add the section between `<td>`s of `<td align="center"></td>`.
+5. 
+
 
 ## Recognition board 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
