@@ -9,6 +9,17 @@
 Problems to solve in society based on location - #Hacktoberfest 2021
 
 ## How to contribute?
+1. Fork the repository to your userspace
+2. Clone the repo `git clone https://github.com/{{your-username}}/hacktoberfest-2021.git`
+3. Make the [changes](https://github.com/iamshreeram/hacktoberfest-2021#changes) as suggested below and add it `git add *`
+4. Commit it `git commit -m "<comment-details>"`
+5. Push your branch `git push origin uname/branch-changes`
+6. Create the Pull Request back to this repository
+7. Once the PR is approved, Please add yourself to the [list of contributors](https://github.com/iamshreeram/hacktoberfest-2021/blob/master/README.md#recognition-board).
+
+
+#### Changes
+
 * You can create a new json with a new problem statement and add the json into repository. Below is a Sample: 
 
 Name of the file : `2-limited-covidcare-support.json`
