@@ -1,8 +1,30 @@
 {
-	"problem": "Corrupted internal politics",
-	"listoNewsReports":["",""],
-	"impactlocation": [
-		["United states", "florida", "belarus"],
-		["India", "tamil nadu", "chennai","uttar pradesh"]
+	"problem":"Corrupted internal politics",
+	"impactlocation":[
+	   {
+		  "country":"India",
+		  "state":"Bihar",
+		  "location":"Patna",
+		  "listofFacts":[
+			 "https://english.newstracklive.com/news/tejasvi-yadav-said-bihar-is-second-most-corrupt-state-of-india-mc25-nu764-ta294-1148224-1.html",
+			 ""
+		  ]
+	   },
+	   {
+		  "country":"South Sudan",
+		  "state":"Juba",
+		  "location":"",
+		  "listoNewsReports":[
+			 "https://www.voanews.com/a/africa_south-sudan-focus_corruption-epic-scale-robs-future-south-sudans-people-un-report-finds/6196262.html"
+		  ]
+	   },
+	   {
+		  "country":"India",
+		  "state":"Uttar pradesh",
+		  "location":"Luchnow",
+		  "listoNewsReports":[
+			  "https://timesofindia.indiatimes.com/city/lucknow/139-non-gazetted-officers-arrested-this-yr-for-graft/articleshow/85578662.cms"
+		   ]
+	   }
 	]
-}
+ }
