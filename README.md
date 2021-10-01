@@ -115,7 +115,7 @@ Your name would have to be added to contribution board after contributing to the
     </td>
     <td align="center">
       <a href="https://github.com/prahasR">
-        <img src="https://avatars2.githubusercontent.com/u/7752805?s=400&v=4" width="100px;" alt="Prahas"/>
+        <img src="https://avatars.githubusercontent.com/u/72384882?v=4" width="100px;" alt="Prahas"/>
         <br />
       <sub><b>Prahas</b></sub>
       </a><br />
