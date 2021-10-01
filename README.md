@@ -15,7 +15,7 @@ Problems to solve in society based on location - #Hacktoberfest 2021
 4. Commit it `git commit -m "<comment-details>"`
 5. Push your branch `git push origin uname/branch-changes`
 6. Create the Pull Request back to this repository
-7. Once the PR is approved, Please add yourself to the list of contributors.
+7. Once the PR is approved, Please add yourself to the [list of contributors](https://github.com/iamshreeram/hacktoberfest-2021/blob/master/README.md#recognition-board).
 
 
 #### Changes
