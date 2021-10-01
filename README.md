@@ -9,11 +9,13 @@
 Problems to solve in society based on location - #Hacktoberfest 2021
 
 ## How to contribute?
-1. Clone the repo `git clone https://github.com/iamshreeram/hacktoberfest-2021.git`
-2. Cut a branch `git checkout -b <username-changes>`
+1. Fork the repository to your userspace
+2. Clone the repo `git clone https://github.com/{{your-username}}/hacktoberfest-2021.git`
 3. Make the [changes](https://github.com/iamshreeram/hacktoberfest-2021#changes) as suggested below and add it `git add *`
 4. Commit it `git commit -m "<comment-details>"`
-5. Push your branch `git push origin uname-changes`
+5. Push your branch `git push origin uname/branch-changes`
+6. Create the Pull Request back to this repository
+7. Once the PR is approved, Please add yourself to the list of contributors.
 
 
 #### Changes
