@@ -19,6 +19,7 @@ Problems to solve in society based on location - #Hacktoberfest 2021
 
 
 #### Changes
+
 * You can create a new json with a new problem statement and add the json into repository. Below is a Sample: 
 
 Name of the file : `2-limited-covidcare-support.json`
@@ -111,6 +112,14 @@ Your name would have to be added to contribution board after contributing to the
       <a href="https://github.com/iamshreeram/Hacktoberfest2019/commits?author=shreeram" title="Documentation">📖</a> 
       <a href="#review-shreeram" title="Reviewed Pull Requests">👀</a> 
       <a href="#talk-shreeram" title="Talks">📢</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/prahasR">
+        <img src="https://avatars2.githubusercontent.com/u/7752805?s=400&v=4" width="100px;" alt="Prahas"/>
+        <br />
+      <sub><b>Prahas</b></sub>
+      </a><br />
+      <a href="#question-prahasR" title="Answering Questions">💬</a> 
     </td>
     <td align="center"></td>
     <td align="center"></td>
