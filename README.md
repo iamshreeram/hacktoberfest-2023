@@ -9,8 +9,58 @@
 Problems to solve in society based on location - #Hacktoberfest 2021
 
 ## How to contribute?
-* You can create a new json with a problem statement and add the json name into below table (OR) 
-* You can specify your location if the problem is already mentioned. Then,
+* You can create a new json with a new problem statement and add the json into repository. Below is a Sample: 
+
+Name of the file : `2-limited-covidcare-support.json`
+
+Content 
+```
+{
+   "problem":"Limited Covidcare Support",
+   "impactlocation":[
+      {
+         "country":"India",
+         "state":"Delhi",
+         "location":"Delhi",
+         "listoNewsReports":[
+            "https://www.bbc.com/news/world-asia-india-56940595",
+            ""
+         ]
+      },
+      {
+         "country":"South Africa",
+         "state":"Limpopo",
+         "location":"",
+         "listoNewsReports":[
+            ""
+         ]
+      }
+   ]
+}
+
+```
+(OR) 
+* If the problem statement already exists, You can just add the location details in specific problem statement, in below mentioned format. 
+
+```
+   ...
+   "impactlocation":[
+      {
+         "country":"",
+         "state":"",
+         "location":"",
+         "listoNewsReports":[
+            ""
+         ]
+      },
+      {[
+         ...
+      }
+      ]
+      ...
+      ...
+
+```
 * Add your name into list of contributor. 
 
 Your name would have to be added to contribution board after contributing to the issues. 
