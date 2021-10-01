@@ -6,7 +6,7 @@
 </p>
 
 
-Problems to solve in society based on location - #Hacktoberfest 2019
+Problems to solve in society based on location - #Hacktoberfest 2021
 
 ## How to contribute?
 * You can create a new json with a problem statement and add the json name into below table (OR) 
